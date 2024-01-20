@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Structural/AdapterPattern/AdapterPattern.iml" filepath="$PROJECT_DIR$/Structural/AdapterPattern/AdapterPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Behavioral/Behavioral.iml" filepath="$PROJECT_DIR$/Behavioral/Behavioral.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural/BridgePattern/BridgePattern.iml" filepath="$PROJECT_DIR$/Structural/BridgePattern/BridgePattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Behavioral/InterpretorPattern/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Behavioral/InterpretorPattern/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural/CompositePattern/CompositePattern.iml" filepath="$PROJECT_DIR$/Structural/CompositePattern/CompositePattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational/SigletonPattern/ConnectionPool/ConnectionPool.iml" filepath="$PROJECT_DIR$/Creational/SigletonPattern/ConnectionPool/ConnectionPool.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational/Creational.iml" filepath="$PROJECT_DIR$/Creational/Creational.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural/BridgePattern/DataConvertDemo/DataConvertDemo.iml" filepath="$PROJECT_DIR$/Structural/BridgePattern/DataConvertDemo/DataConvertDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational/PrototypePattern/DeepCopy/DeepCopy.iml" filepath="$PROJECT_DIR$/Creational/PrototypePattern/DeepCopy/DeepCopy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational/PrototypePattern/DeepCopyWithManager/DeepCopyWithManager.iml" filepath="$PROJECT_DIR$/Creational/PrototypePattern/DeepCopyWithManager/DeepCopyWithManager.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational/SigletonPattern/Eager/Eager.iml" filepath="$PROJECT_DIR$/Creational/SigletonPattern/Eager/Eager.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational/SimpleFactoryPattern/GarmentFactory/GarmentFactory.iml" filepath="$PROJECT_DIR$/Creational/SimpleFactoryPattern/GarmentFactory/GarmentFactory.iml" />
@@ -13,9 +19,13 @@
       <module fileurl="file://$PROJECT_DIR$/Behavioral/InterpretorPattern/InterpretorPattern.iml" filepath="$PROJECT_DIR$/Behavioral/InterpretorPattern/InterpretorPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational/SigletonPattern/LazyByInnerClass/LazyByInnerClass.iml" filepath="$PROJECT_DIR$/Creational/SigletonPattern/LazyByInnerClass/LazyByInnerClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational/SigletonPattern/LazyBySynchronized/LazyBySynchronized.iml" filepath="$PROJECT_DIR$/Creational/SigletonPattern/LazyBySynchronized/LazyBySynchronized.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural/AdapterPattern/PracticeDemo/PracticeDemo.iml" filepath="$PROJECT_DIR$/Structural/AdapterPattern/PracticeDemo/PracticeDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational/PrototypePattern/PrototypePattern.iml" filepath="$PROJECT_DIR$/Creational/PrototypePattern/PrototypePattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Behavioral/InterpretorPattern/RobotMoveInstruction/RobotMoveInstruction.iml" filepath="$PROJECT_DIR$/Behavioral/InterpretorPattern/RobotMoveInstruction/RobotMoveInstruction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational/PrototypePattern/ShallowCopy/ShallowCopy.iml" filepath="$PROJECT_DIR$/Creational/PrototypePattern/ShallowCopy/ShallowCopy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational/SigletonPattern/SigletonPattern.iml" filepath="$PROJECT_DIR$/Creational/SigletonPattern/SigletonPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational/SimpleFactoryPattern/SimpleFactoryPattern.iml" filepath="$PROJECT_DIR$/Creational/SimpleFactoryPattern/SimpleFactoryPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural/Structural.iml" filepath="$PROJECT_DIR$/Structural/Structural.iml" />
     </modules>
   </component>
 </project>
